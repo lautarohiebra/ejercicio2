@@ -1,0 +1,55 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.principal {
+    width: 25%;
+    margin-left: 37.5%;
+    margin-right: 37.5%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(192, 84, 151);
+    font-size: 50px;
+    letter-spacing: 25px;
+}
+
+h3 {
+    color: rgb(192, 84, 151);
+    font-weight: bold;
+    letter-spacing: 10px;
+    font-size: 25px;
+}
+
+p {
+    color: rgb(50, 98, 166);
+    /* margin-left: 3px; */
+    
+}
+
+
+
+
+
+.century-resort img {
+    float: right;
+    width: 550px;
+}
+
+.caribbean-resort img {
+    float: left;
+    width: 550px;
+    margin-right: 15px;
+}
+
+.animal-lodge img {
+    float: right;
+    width: 550px;
+}
+
+.bottom {
+    width: 100%;
+}
